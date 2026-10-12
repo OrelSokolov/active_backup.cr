@@ -3,8 +3,11 @@ version: 0.1.0
 crystal: ">= 1.21.0"
 dependencies:
   active_support_cr:
-    path: ../active_support.cr
+    github: OrelSokolov/active_support.cr
+    version: ~> 0.1.0
   active_job_cr:
-    path: ../active_job.cr
+    github: OrelSokolov/active_job.cr
+    version: ~> 0.1.0
   active_record_cr:
-    path: ../active_record.cr
+    github: OrelSokolov/active_record.cr
+    version: ~> 0.1.0
