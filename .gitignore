@@ -1,0 +1,5 @@
+/lib/
+/.shards/
+/tmp/
+/active_backup_cr
+*.dwarf

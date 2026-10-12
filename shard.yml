@@ -1,0 +1,10 @@
+name: active_backup_cr
+version: 0.1.0
+crystal: ">= 1.21.0"
+dependencies:
+  active_support_cr:
+    path: ../active_support.cr
+  active_job_cr:
+    path: ../active_job.cr
+  active_record_cr:
+    path: ../active_record.cr
